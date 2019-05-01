@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telega", "Telega\Telega.csproj", "{800EE396-CFC0-4B28-AD7F-DC7914791B69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telega2", "Telega2\Telega2.csproj", "{EA189290-297D-40AB-B523-F2C7B74EF059}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{800EE396-CFC0-4B28-AD7F-DC7914791B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{800EE396-CFC0-4B28-AD7F-DC7914791B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{800EE396-CFC0-4B28-AD7F-DC7914791B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA189290-297D-40AB-B523-F2C7B74EF059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA189290-297D-40AB-B523-F2C7B74EF059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA189290-297D-40AB-B523-F2C7B74EF059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA189290-297D-40AB-B523-F2C7B74EF059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
