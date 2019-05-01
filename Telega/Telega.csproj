@@ -46,6 +46,12 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
+    <Reference Include="TeleSharp.TL">
+      <HintPath>..\TLSharp-master\TLSharp-master\TLSharp.Core\bin\Debug\TeleSharp.TL.dll</HintPath>
+    </Reference>
+    <Reference Include="TLSharp.Core">
+      <HintPath>..\TLSharp-master\TLSharp-master\TLSharp.Core\bin\Debug\TLSharp.Core.dll</HintPath>
+    </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
